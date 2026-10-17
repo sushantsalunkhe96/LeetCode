@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0035-search-insert-position) |
+| [0283-move-zeroes](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0585-investments-in-2016](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0585-investments-in-2016) |
 | [0608-tree-node](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0608-tree-node) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

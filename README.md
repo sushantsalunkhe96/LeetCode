@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0585-investments-in-2016) |
+| [0595-big-countries](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0608-tree-node) |
 ## Two Pointers
 |  |

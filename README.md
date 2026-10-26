@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sushantsalunkhe96/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/sushantsalunkhe96/LeetCode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->

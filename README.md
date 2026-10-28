@@ -43,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2235-add-two-integers](https://github.com/sushantsalunkhe96/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sushantsalunkhe96/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2485-find-the-pivot-integer](https://github.com/sushantsalunkhe96/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/sushantsalunkhe96/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/sushantsalunkhe96/LeetCode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->

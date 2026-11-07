@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1920-build-array-from-permutation](https://github.com/sushantsalunkhe96/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sushantsalunkhe96/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sushantsalunkhe96/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sushantsalunkhe96/LeetCode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/sushantsalunkhe96/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
